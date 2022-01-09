@@ -1,1 +1,1 @@
-# Patika-SQL-Assignment1
+# Patika-SQL
